@@ -25,7 +25,6 @@
 <h2>UVa</h2>
 <ul>
 <li>10608 - Friends</li>
-<li><a href="https://github.com/VojtechVanecek/solved_problems/blob/master/UVa/10004_-_Bicoloring/main.cpp">10004 - Bicoloring</a></li>
 <li>10004 - Bicoloring</li>
 <li>10308 - Roads in the North</li>
 <li>11518 - Dominos 2</li>
