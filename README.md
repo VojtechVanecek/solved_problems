@@ -39,4 +39,10 @@
 <li>247 - Calling Circles</li>
 <li>11504 - Dominos</li>
 <li>11838 - Come and Go</li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=929">988 - Many Paths, One Destination</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1226">10285 - Longest Run on a Snowboard</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=865">924 - Spreading The News</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=565">624 - CD</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1927">10986 - Sending email</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2678">11631 - Dark roads</a></li>
 </ul>
