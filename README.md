@@ -21,24 +21,25 @@
 <li>DCEPC501 - Save Thy Toys</li>
 <li>SNGINT - Encode Integer</li>
 <li>ELEVTRBL - Elevator Trouble</li>
+<li><a href=""></a></li>
 </ul>
 <h2>UVa</h2>
 <ul>
-<li>10608 - Friends</li>
-<li>10004 - Bicoloring</li>
-<li>10308 - Roads in the North</li>
-<li>11518 - Dominos 2</li>
-<li>11456 - Trainsorting</li>
-<li>10161 - Ant on a Chessboard</li>
-<li>11709 - Trust groups</li>
-<li>11561 - Getting Gold</li>
-<li>11770 - Lighting Away</li>
-<li>10099 - The Tourist Guide</li>
-<li>11573 - Ocean Currents</li>
-<li>10020 - Minimal coverage</li>
-<li>247 - Calling Circles</li>
-<li>11504 - Dominos</li>
-<li>11838 - Come and Go</li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1549">10608 - Friends</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=945">10004 - Bicoloring</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1249">10308 - Roads in the North</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2513">11518 - Dominos 2</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2451">11456 - Trainsorting</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2890">10161 - Ant on a Chessboard</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2756">11709 - Trust groups</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2597">11561 - Getting Gold</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2870">11770 - Lighting Away</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1040">10099 - The Tourist Guide</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2620">11573 - Ocean Currents</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=961">10020 - Minimal coverage</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=183">247 - Calling Circles</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2499">11504 - Dominos</a></li>
+<li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2938">11838 - Come and Go</a></li>
 <li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=929">988 - Many Paths, One Destination</a></li>
 <li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1226">10285 - Longest Run on a Snowboard</a></li>
 <li><a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=865">924 - Spreading The News</a></li>
